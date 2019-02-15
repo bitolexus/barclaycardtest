@@ -1,0 +1,12 @@
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\FileData.exe.config
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\FileData.exe
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\FileData.pdb
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\FileManager.dll
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\Ninject.dll
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\ThirdPartyTools.dll
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\FileManager.pdb
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\ThirdPartyTools.pdb
+D:\barclays\lex\DeveloperTestExercise\FileData\bin\Debug\Ninject.xml
+D:\barclays\lex\DeveloperTestExercise\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+D:\barclays\lex\DeveloperTestExercise\FileData\obj\Debug\FileData.exe
+D:\barclays\lex\DeveloperTestExercise\FileData\obj\Debug\FileData.pdb

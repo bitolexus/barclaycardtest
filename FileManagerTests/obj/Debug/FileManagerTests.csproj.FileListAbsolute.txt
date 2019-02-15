@@ -1,0 +1,13 @@
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\FileManagerTests.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\FileManagerTests.pdb
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\FileManager.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\Ninject.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\ThirdPartyTools.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\FileManager.pdb
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\Ninject.xml
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\ThirdPartyTools.pdb
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\obj\Debug\FileManagerTests.csprojResolveAssemblyReference.cache
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\obj\Debug\FileManagerTests.dll
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\obj\Debug\FileManagerTests.pdb
+D:\barclays\lex\DeveloperTestExercise\FileManagerTests\bin\Debug\FileManagerTests.dll.config

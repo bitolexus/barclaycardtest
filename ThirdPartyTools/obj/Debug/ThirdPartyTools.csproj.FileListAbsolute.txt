@@ -1,0 +1,5 @@
+D:\barclays\lex\DeveloperTestExercise\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\barclays\lex\DeveloperTestExercise\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\barclays\lex\DeveloperTestExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+D:\barclays\lex\DeveloperTestExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\barclays\lex\DeveloperTestExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
